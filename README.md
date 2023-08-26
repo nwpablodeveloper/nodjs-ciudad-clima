@@ -1,4 +1,4 @@
-# BUSCAR CIUDAD Y VER DATOS POR API
+# Buscar ciudad y ver datos del clima con APIs
 
 Buscamos una ciudad con la API  de MAPBOX
 https://www.mapbox.com/
